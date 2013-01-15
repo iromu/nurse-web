@@ -1,0 +1,1 @@
+$(document).ready(function(){$("body").height($(document).height()-100),$("#sidenav").affix()});
